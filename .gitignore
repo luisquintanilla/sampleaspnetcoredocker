@@ -4,7 +4,10 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 # User-specific files
+<<<<<<< HEAD
 *.rsuser
+=======
+>>>>>>> 97283d041c59c1af9eaa0dd482e630bd8aa16719
 *.suo
 *.user
 *.userosscache
@@ -13,9 +16,12 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
+<<<<<<< HEAD
 # Mono auto generated files
 mono_crash.*
 
+=======
+>>>>>>> 97283d041c59c1af9eaa0dd482e630bd8aa16719
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
@@ -23,8 +29,11 @@ mono_crash.*
 [Rr]eleases/
 x64/
 x86/
+<<<<<<< HEAD
 [Aa][Rr][Mm]/
 [Aa][Rr][Mm]64/
+=======
+>>>>>>> 97283d041c59c1af9eaa0dd482e630bd8aa16719
 bld/
 [Bb]in/
 [Oo]bj/
@@ -58,6 +67,10 @@ BenchmarkDotNet.Artifacts/
 project.lock.json
 project.fragment.lock.json
 artifacts/
+<<<<<<< HEAD
+=======
+**/Properties/launchSettings.json
+>>>>>>> 97283d041c59c1af9eaa0dd482e630bd8aa16719
 
 # StyleCop
 StyleCopReport.xml
@@ -65,7 +78,11 @@ StyleCopReport.xml
 # Files built by Visual Studio
 *_i.c
 *_p.c
+<<<<<<< HEAD
 *_h.h
+=======
+*_i.h
+>>>>>>> 97283d041c59c1af9eaa0dd482e630bd8aa16719
 *.ilk
 *.meta
 *.obj
@@ -82,7 +99,10 @@ StyleCopReport.xml
 *.tlh
 *.tmp
 *.tmp_proj
+<<<<<<< HEAD
 *_wpftmp.csproj
+=======
+>>>>>>> 97283d041c59c1af9eaa0dd482e630bd8aa16719
 *.log
 *.vspscc
 *.vssscc
@@ -209,14 +229,21 @@ BundleArtifacts/
 Package.StoreAssociation.xml
 _pkginfo.txt
 *.appx
+<<<<<<< HEAD
 *.appxbundle
 *.appxupload
+=======
+>>>>>>> 97283d041c59c1af9eaa0dd482e630bd8aa16719
 
 # Visual Studio cache files
 # files ending in .cache can be ignored
 *.[Cc]ache
 # but keep track of directories ending in .cache
+<<<<<<< HEAD
 !?*.[Cc]ache/
+=======
+!*.[Cc]ache/
+>>>>>>> 97283d041c59c1af9eaa0dd482e630bd8aa16719
 
 # Others
 ClientBin/
@@ -229,15 +256,22 @@ ClientBin/
 *.publishsettings
 orleans.codegen.cs
 
+<<<<<<< HEAD
 # Including strong name files can present a security risk
+=======
+# Including strong name files can present a security risk 
+>>>>>>> 97283d041c59c1af9eaa0dd482e630bd8aa16719
 # (https://github.com/github/gitignore/pull/2483#issue-259490424)
 #*.snk
 
 # Since there are multiple workflows, uncomment next line to ignore bower_components
 # (https://github.com/github/gitignore/pull/1529#issuecomment-104372622)
 #bower_components/
+<<<<<<< HEAD
 # ASP.NET Core default setup: bower directory is configured as wwwroot/lib/ and bower restore is true
 **/wwwroot/lib/
+=======
+>>>>>>> 97283d041c59c1af9eaa0dd482e630bd8aa16719
 
 # RIA/Silverlight projects
 Generated_Code/
@@ -262,7 +296,10 @@ ServiceFabricBackup/
 *.bim.layout
 *.bim_*.settings
 *.rptproj.rsuser
+<<<<<<< HEAD
 *- Backup*.rdl
+=======
+>>>>>>> 97283d041c59c1af9eaa0dd482e630bd8aa16719
 
 # Microsoft Fakes
 FakesAssemblies/
@@ -298,8 +335,17 @@ paket-files/
 # FAKE - F# Make
 .fake/
 
+<<<<<<< HEAD
 # CodeRush personal settings
 .cr/personal
+=======
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# CodeRush
+.cr/
+>>>>>>> 97283d041c59c1af9eaa0dd482e630bd8aa16719
 
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
@@ -324,7 +370,11 @@ __pycache__/
 # OpenCover UI analysis results
 OpenCover/
 
+<<<<<<< HEAD
 # Azure Stream Analytics local run output
+=======
+# Azure Stream Analytics local run output 
+>>>>>>> 97283d041c59c1af9eaa0dd482e630bd8aa16719
 ASALocalRun/
 
 # MSBuild Binary and Structured Log
@@ -333,6 +383,7 @@ ASALocalRun/
 # NVidia Nsight GPU debugger configuration file
 *.nvuser
 
+<<<<<<< HEAD
 # MFractors (Xamarin productivity tool) working folder
 .mfractor/
 
@@ -344,3 +395,7 @@ healthchecksdb
 
 # Backup folder for Package Reference Convert tool in Visual Studio 2017
 MigrationBackup/
+=======
+# MFractors (Xamarin productivity tool) working folder 
+.mfractor/
+>>>>>>> 97283d041c59c1af9eaa0dd482e630bd8aa16719
